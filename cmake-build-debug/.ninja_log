@@ -1,0 +1,6 @@
+# ninja log v5
+1	374	7275437563946948	build.ninja	878e04f30e99bc16
+1145	1472	7275436941952575	ChunkList.exe	d6ac3b8b889a6534
+4	612	7275346193405981	CMakeFiles/ChunkList.dir/main.cpp.obj	196ab62a1e10ebd2
+7	1143	7275436938782103	CMakeFiles/ChunkList.dir/ChunkListTests.cpp.obj	51f1b5f45f4fffe5
+2	386	7275437563946948	build.ninja	878e04f30e99bc16

@@ -1,0 +1,3 @@
+C:/Users/trexy/CLionProjects/laba/ChunkList/cmake-build-debug/CMakeFiles/ChunkList.dir
+C:/Users/trexy/CLionProjects/laba/ChunkList/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/trexy/CLionProjects/laba/ChunkList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
